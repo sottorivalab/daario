@@ -1,0 +1,28 @@
+:orphan:
+
+:py:mod:`midaa.Utils_parsers`
+=============================
+
+.. py:module:: midaa.Utils_parsers
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   midaa.Utils_parsers.get_input_params_adata
+   midaa.Utils_parsers.add_to_obs_adata
+
+
+
+.. py:function:: get_input_params_adata(adata, is_normalized=True)
+
+
+.. py:function:: add_to_obs_adata(inf_res, adata)
+
+
